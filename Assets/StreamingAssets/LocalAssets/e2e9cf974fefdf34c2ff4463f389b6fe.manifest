@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 2217414742
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 18c67ba2f23393ad4307b040f9663307
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c6eae29cb058a20769354061c63f01b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3fab947ce2f62047aab9865e0ef1be8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5deb9ff5611cb9d4596d397ac57ee8c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65991a90d7a0b2144969fe1fb7220d4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73fbf3aa05f6be24780438449f505aa3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 482651d742b87ec4ba3460fbf0a89fa2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Invector.vCharacterController.vThirdPersonMotor/vMovementSpeed
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Animations/Open.anim
+- Assets/Player/Open Door Outwards.fbm/Remy_Shoes_Normal.png
+- Assets/Player/Open Door Outwards.fbm/Remy_Top_Diffuse.png
+- Assets/Animatior/PlayerAnimatorController.controller
+- Assets/Player/Open Door Outwards.fbm/Remy_Hair_Normal.png
+- Assets/Player/Open Door Outwards.fbm/Remy_Body_Normal.png
+- Assets/Player/Materials/Remy_Hair_Diffuse.mat
+- Assets/Player/Materials/Remy_Bottom_Diffuse.mat
+- Assets/Player/Open Door Outwards.fbm/Remy_Shoes_Diffuse.png
+- Assets/Player/Open Door Outwards.fbm/Remy_Top_Normal.png
+- Assets/Invector-3rdPersonController_LITE/3D Models/Animations/Basic_FreeMovement.fbx
+- Assets/Player/Materials/Remy_Shoes_Diffuse.mat
+- Assets/Player/Open Door Outwards.fbm/Remy_Hair_Diffuse.png
+- Assets/Player/Open Door Outwards.fbm/Remy_Bottom_Diffuse.png
+- Assets/1111111/Player.prefab
+- Assets/Player/Open Door Outwards.fbm/Remy_Bottom_Normal.png
+- Assets/Player/Materials/Remy_Top_Diffuse.mat
+- "Assets/Resources/\u7BAD\u5934\u663E\u793A\u7B26\u53F7\u53F3\u65B9\u5411(arrow-show-symbol-di_\u7231\u7ED9\u7F51_aigei_com.png"
+- Assets/Animations/RunForward.fbx
+- Assets/Player/Open Door Outwards.fbx
+- Assets/Animations/Idle.fbx
+- Assets/Invector-3rdPersonController_LITE/3D Models/Characters/Invector@V-Bot 2.0/FBX/VBOT_LOD.fbx
+- Assets/Blink/Art/Animations/Animations_Starter_Pack/Movement/Jumps.fbx
+- Assets/Player/Materials/Remy_Body_Diffuse.mat
+- Assets/Player/Open Door Outwards.fbm/Remy_Body_Diffuse.png
+Dependencies: []
