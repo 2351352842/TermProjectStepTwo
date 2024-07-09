@@ -60,29 +60,80 @@
   <ItemGroup>
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonMotor.cs" />
     <Compile Include="Assets\Scripts\Login.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\OnStartSendCollision.cs" />
+    <Compile Include="Assets\Scripts\UI\UIvideo.cs" />
+    <Compile Include="Assets\Scripts\Game\GroundMove.cs" />
+    <Compile Include="Assets\Scripts\Game\CreateBlood.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Prefabs\Balls\ProjectileCollisionBehaviour.cs" />
+    <Compile Include="Assets\Scripts\UI\UISlider.cs" />
+    <Compile Include="Assets\Scripts\Dialogue.cs" />
     <Compile Include="Assets\Scripts\PlaceName.cs" />
+    <Compile Include="Assets\Scripts\Game\EnemyMove.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\FadeInOutShaderFloat.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\FadeInOutScale.cs" />
+    <Compile Include="Assets\Scripts\Game\PlayerBulletMove.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\EffectSettings.cs" />
+    <Compile Include="Assets\Scripts\UI\UILoading.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\3D Models\Others\HealthItem\vAnimateUV.cs" />
+    <Compile Include="Assets\Scripts\UI\UILogin.cs" />
+    <Compile Include="Assets\Scripts\Game\PlayerHealth.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vComment.cs" />
+    <Compile Include="Assets\Scripts\Game\EnemyBulletMove.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonAnimator.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Prefabs\Balls\AddMaterialOnHit.cs" />
     <Compile Include="Assets\Scripts\RayController.cs" />
+    <Compile Include="Assets\Scripts\Game\CreateGoods.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Prefabs\Balls\LazyLoad.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\FixShaderQueue.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonInput.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\RandomRotate.cs" />
+    <Compile Include="Assets\Scripts\Game\BossHealth.cs" />
+    <Compile Include="Assets\Scripts\UI\CubeMove.cs" />
+    <Compile Include="Assets\Scripts\Game\PlayerShoot.cs" />
+    <Compile Include="Assets\Scripts\Game\EnemyShoot.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\UVTextureAnimator.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\DistortionMobile.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\QueueUvAnimation.cs" />
     <Compile Include="Assets\Scripts\CSV.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vPickupItem.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Prefabs\Shots\LineRendererBehaviour.cs" />
     <Compile Include="Assets\Scripts\AssetManagerRuntime.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\FadeInOutShaderColor.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Prefabs\Buffs\ShieldCollisionBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Game\BossShoot.cs" />
+    <Compile Include="Assets\Scripts\UI\UISkill.cs" />
+    <Compile Include="Assets\Scripts\UI\UIPPT.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\FadeInOutParticles.cs" />
     <Compile Include="Assets\Scripts\AssetBundleLoad.cs" />
     <Compile Include="Assets\Scripts\AssetManagerConfigScriptableObject.cs" />
     <Compile Include="Assets\TirGames\SchoolScene\Scenes\SchoolSceneAssets\Menu\Scripts\SceneExit.cs" />
     <Compile Include="Assets\Scripts\VideoController.cs" />
+    <Compile Include="Assets\Scripts\Game\CreateEnemy.cs" />
+    <Compile Include="Assets\Scripts\Game\BossMove.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\FadeInOutLight.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Demo\MyGui.cs" />
     <Compile Include="Assets\Scripts\PlayerInitialization.cs" />
+    <Compile Include="Assets\Scripts\Game\ShowScore.cs" />
+    <Compile Include="Assets\Scripts\UI\UIText.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Prefabs\Buffs\WaterUvAnimation.cs" />
+    <Compile Include="Assets\Scripts\Game\AudioManager.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\CollisionActiveBehaviour.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\CharacterController\vThirdPersonController.cs" />
+    <Compile Include="Assets\Scripts\Game\PlayerMove.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Generic\Utils\vExtensions.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\DeadTime.cs" />
     <Compile Include="Assets\Scripts\Door.cs" />
     <Compile Include="Assets\Invector-3rdPersonController_LITE\Scripts\Camera\vThirdPersonCamera.cs" />
+    <Compile Include="Assets\Scripts\UI\UIAudio.cs" />
+    <Compile Include="Assets\Scripts\UI\UIButton.cs" />
+    <Compile Include="Assets\Scripts\Game\BulletDestroy.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\TirGames\SchoolScene\Scenes\SchoolSceneAssets\Menu\Scripts\MenuButton.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Share\FadeInOutStatus.cs" />
     <Compile Include="Assets\Scripts\AssetManagerEditorWindowConfig.cs" />
     <Compile Include="Assets\Scripts\PlayerAnimaController.cs" />
     <Compile Include="Assets\Scripts\DownloadHandler.cs" />
+    <Compile Include="Assets\Prefabs\VFX\Starfield\Realistic Effects Pack\Scripts\Prefabs\Buffs\WaterWaveUvAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -1051,6 +1102,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{A13826D4-75E3-6767-D612-78310021D104}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
